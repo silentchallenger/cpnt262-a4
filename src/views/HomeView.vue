@@ -8,25 +8,25 @@ import TheHero from "../components/TheHero.vue";
 
 const cardInfo = [
   {
-    url: "public/images/egypt.jpg",
+    url: "/egypt.jpg",
     title: "Egypt",
     subtitle: "$600",
     text: "Egypt",
   },
   {
-    url: "public/images/japan.jpg",
+    url: "/japan.jpg",
     title: "Japan",
     subtitle: "$600",
     text: "Japan",
   },
   {
-    url: "public/images/china.jpg",
+    url: "/china.jpg",
     title: "China",
     subtitle: "$600",
     text: "China",
   },
   {
-    url: "public/images/paris.jpg",
+    url: "/paris.jpg",
     title: "France",
     subtitle: "$600",
     text: "France",
@@ -93,7 +93,7 @@ const advInfo = [
       </AppList>
       <img
         class="w-80"
-        src="public/images/scenery.jpg"
+        src="/scenery.jpg"
         alt="Scenery Image"
       />
     </section>
