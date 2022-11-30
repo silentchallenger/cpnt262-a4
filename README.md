@@ -2,9 +2,10 @@
 
 - Author: Rustu Mesut Eser
 - Live site:
-  [https://silentchallenger.github.io/cpnt262-a4/](https://silentchallenger.github.io/cpnt262-a4/)
+  [https://silentchallenger-cpnt262-a4.netlify.app/](https://silentchallenger-cpnt262-a4.netlify.app/)
 
-- I got my inspiration from page layout assignment that we did in Figma for 270. [Layout link](https://www.figma.com/file/afsBxJ52sxjb6WsBjqHo31/Assignment-4?node-id=0%3A1&t=NkidAzxKmYR0q50J-1)
+- I got my inspiration from page layout assignment that we did in Figma for 270.
+  [Layout link](https://www.figma.com/file/afsBxJ52sxjb6WsBjqHo31/Assignment-4?node-id=0%3A1&t=NkidAzxKmYR0q50J-1)
 
 ## Attributions
 
