@@ -11,7 +11,7 @@ module.exports = {
       },
       backgroundImage: {
         "hero-section":
-          'linear-gradient(to right bottom, rgba(0, 0, 0, 0.6), rgba(0, 0, 0, 0.7)), url("../src/assets/images/hero.jpg")',
+          'linear-gradient(to right bottom, rgba(0, 0, 0, 0.6), rgba(0, 0, 0, 0.7)), url("/images/hero.jpg")',
       },
       height: {
         "hero": "60vh",
